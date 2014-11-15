@@ -1,3 +1,3 @@
 # parse.com and Laravel
 
-A simple blog application using parse.com php sdk on Laravel
+A simple project time tracking application using parse.com php sdk on Laravel
